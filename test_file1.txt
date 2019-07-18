@@ -1,1 +1,2 @@
-b
+Making changes to this new file.
+theee are feature 1 changes.
