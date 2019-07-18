@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi This is abhinav Kannojia
-Original master file. 
+Original master file.
+Making changes to this new file.
+theee are feature 1 changes.
+=======
+>>>>>>> feature1
